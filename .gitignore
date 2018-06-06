@@ -1,0 +1,5 @@
+keybld
+*.o
+kparse.c
+gram.*
+toktab.c
